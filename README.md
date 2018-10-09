@@ -32,3 +32,7 @@ So the server will run on the localhost.
 Server is also running at pythonanywhere
 
 http://ashi123321.pythonanywhere.com/events/
+
+Download mobile app for Android Devices
+
+https://github.com/garvitkataria/Ionic-Calendar-App/blob/master/android-debug.apk
