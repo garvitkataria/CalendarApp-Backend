@@ -1,25 +1,34 @@
 # CalendarApp-Backend
 
+1. Create Virtual Environment
+    
+        mkvirtualenv --python=/usr/bin/python3.5 myenv
 
-mkvirtualenv --python=/usr/bin/python3.5 myenv
+2. Install Django Framework
+      
+        pip install django
 
-pip install django
+3. Install Dependencies by pip
 
-Dependencies
+        pip install djangorestframework
+        pip install django-cors-headers
+        
+4. Start the virtual environment and Go to the project directory
+          
+          source bin/activate
+          cd CalendarApp-Backend-master
+          
+          
+5. Run Django Server
 
-pip install djangorestframework
+        python manage.py runserver
 
 
-pip install django-cors-headers
-
-
-python manage.py runserver
+So the server will run on the localhost.
 
 
 
 
-
-
-code is also hosted at pythonanywhere
+Server is also running at pythonanywhere
 
 http://ashi123321.pythonanywhere.com/events/
