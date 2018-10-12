@@ -36,3 +36,5 @@ http://ashi123321.pythonanywhere.com/events/
 Download mobile app for Android Devices
 
 https://github.com/garvitkataria/Ionic-Calendar-App/blob/master/android-debug.apk
+
+(Turn on the USB debugging option first.)
